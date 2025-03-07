@@ -11,9 +11,9 @@ scikit-learn==1.5.2
 pystac-client==0.8.3
 planetary-computer==1.0.0
 tqdm==4.66.5
-stackstac==0.5.1^M
-osmnx==2.0.1^M
-odc-stac==0.3.11^M
+stackstac==0.5.1
+osmnx==2.0.1
+odc-stac==0.3.11
 
 
 
